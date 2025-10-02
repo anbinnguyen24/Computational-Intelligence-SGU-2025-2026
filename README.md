@@ -1,10 +1,10 @@
 ## Môn Tính toán thông minh (Computational Intelligence)
 
 ## Table of contents
-* [Đề tài](#process)
+* [Đề tài](#đề-tài)
 * [Hướng dẫn làm đề tài](#hướng-dẫn)
 * [Danh sách thành viên nhóm](#thành-viên)
-
+* [Tài liệu tham khảo](#-tài-liệu-tham-khảo)
 
 
 ## Đề tài
@@ -22,6 +22,10 @@ Fake News Detection Using Natural Language Processing
 |------|-----------------|
 | 3122410004 |  Nguyễn Văn An  |
 | 3122410294 |  Lý Minh Phát  |
+
+## 📖 TÀI LIỆU THAM KHẢO
+> *https://www.geeksforgeeks.org/machine-learning/fake-news-detection-using-machine-learning/*  
+---
    
 
 
