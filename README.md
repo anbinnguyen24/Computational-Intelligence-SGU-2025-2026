@@ -22,6 +22,9 @@ Fake News Detection Using Natural Language Processing
 |------|-----------------|
 | 3122410004 |  Nguyễn Văn An  |
 | 3122410294 |  Lý Minh Phát  |
+| 3122410071 |  Nguyễn Quang Đại  |
+| 3122410122 |  Nguyễn Văn Tầm Hoan  |
+| 3124410166 |  Trần Đăng Khôi  |
 
 ## 📖 TÀI LIỆU THAM KHẢO
 > *https://www.geeksforgeeks.org/machine-learning/fake-news-detection-using-machine-learning/*  
