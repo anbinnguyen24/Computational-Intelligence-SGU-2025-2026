@@ -27,7 +27,7 @@ Fake News Detection Using Natural Language Processing
 | 3124410166 |  Trần Đăng Khôi  |
 
 ## 📖 TÀI LIỆU THAM KHẢO
-> *https://github.com/mhahsler/CS7320-AI/tree/master*  
+ 
 ---
    
 
