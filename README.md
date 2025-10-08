@@ -29,7 +29,7 @@ Fake News Detection Using Natural Language Processing
 
 ## PHÂN CÔNG
 | MSSV | Họ tên | Nội dung công việc | Trạng thái công việc |
-|------|-----------------| ------------------------|-----------=|
+|------|-----------------| ------------------------|------------
 | 3122410004 |  Nguyễn Văn An  | ... | ... |
 | 3122410294 |  Lý Minh Phát  | ... | ... |
 | 3122410071 |  Nguyễn Quang Đại  | ... | ... |
