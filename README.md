@@ -4,6 +4,7 @@
 * [Đề tài](#đề-tài)
 * [Hướng dẫn làm đề tài](#hướng-dẫn)
 * [Danh sách thành viên nhóm](#thành-viên)
+* [Phân công](#phân-công)
 * [Tài liệu tham khảo](#-tài-liệu-tham-khảo)
 
 
@@ -25,6 +26,16 @@ Fake News Detection Using Natural Language Processing
 | 3122410071 |  Nguyễn Quang Đại  |
 | 3122410122 |  Nguyễn Văn Tầm Hoan  |
 | 3124410166 |  Trần Đăng Khôi  |
+
+## PHÂN CÔNG
+| MSSV | Họ tên | Nội dung công việc | Trạng thái công việc |
+|------|-----------------| ------------------------|-----------=|
+| 3122410004 |  Nguyễn Văn An  | ... | ... |
+| 3122410294 |  Lý Minh Phát  | ... | ... |
+| 3122410071 |  Nguyễn Quang Đại  | ... | ... |
+| 3122410122 |  Nguyễn Văn Tầm Hoan  | ... | ... |
+| 3124410166 |  Trần Đăng Khôi  | ... | ... |
+
 
 ## 📖 TÀI LIỆU THAM KHẢO
  
