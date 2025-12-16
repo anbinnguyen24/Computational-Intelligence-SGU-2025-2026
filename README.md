@@ -30,11 +30,11 @@ Fake News Detection Using Natural Language Processing
 ## PHÂN CÔNG
 | MSSV | Họ tên | Nội dung công việc | Trạng thái công việc |
 |------|-----------------| ------------------------|------------
-| 3122410004 |  Nguyễn Văn An  | Xử lí dữ liệu, Huấn luyện và đánh giá mô hình và viết báo cáo | ... |
-| 3122410294 |  Lý Minh Phát  | Làm slide trình bày | ... |
-| 3122410071 |  Nguyễn Quang Đại  | Thuyết trình | ... |
-| 3122410122 |  Nguyễn Văn Tầm Hoan  | Thuyết trình | ... |
-| 3124410166 |  Trần Đăng Khôi  | Thuyết trình | ... |
+| 3122410004 |  Nguyễn Văn An  | Xử lí dữ liệu, Huấn luyện và đánh giá mô hình và viết báo cáo | Đã xong |
+| 3122410294 |  Lý Minh Phát  | Làm slide trình bày | Đã xong |
+| 3122410071 |  Nguyễn Quang Đại  | Thuyết trình | Đã xong |
+| 3122410122 |  Nguyễn Văn Tầm Hoan  | Thuyết trình | Đã xong |
+| 3124410166 |  Trần Đăng Khôi  | Thuyết trình | Đã xong |
 
 
 ## 📖 TÀI LIỆU THAM KHẢO
